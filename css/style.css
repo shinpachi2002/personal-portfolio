@@ -32,6 +32,8 @@
   }
   .hero img{
     margin-top: 20px;
+    height: 70px;
+    width:70px;
   }
   .col-sm-4{
     margin-top: 10px;
@@ -77,4 +79,4 @@ footer{
 }
 .contact a{
   text-decoration: none;
-}
+} 
